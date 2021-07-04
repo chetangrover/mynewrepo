@@ -1,4 +1,11 @@
-this is a line
+ithis is a line
 a1 line1
 a1 line2
+<<<<<<< HEAD
 d1 line1
+=======
+b1 line1
+b1 line2
+b1 line3
+c1 line1
+>>>>>>> c1
